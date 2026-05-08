@@ -1,0 +1,12 @@
+2026-04-23 18:09:58.841 [error] Ignoring terminal.integrated.initialHint.copilotCli as terminal.integrated.initialHint is true
+2026-04-23 18:09:59.455 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 34ms.
+2026-04-23 18:09:59.604 [warning] Creation of workbench contribution 'workbench.contrib.exploreAgentDefaultModel' took 22ms.
+2026-04-23 18:09:59.665 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 33ms.
+2026-04-23 18:09:59.716 [warning] Creation of workbench contribution 'mcpContextKeys' took 29ms.
+2026-04-23 18:09:59.766 [warning] Creation of workbench contribution 'workbench.contrib.interactiveDocument' took 37ms.
+2026-04-23 18:09:59.831 [warning] Creation of workbench contribution 'workbench.contrib.configurationDefaultOverridesContribution' took 24ms.
+2026-04-23 18:10:01.920 [info] Started local extension host with pid 4857.
+2026-04-23 18:10:03.456 [error] Ignoring terminal.integrated.initialHint.copilotCli as terminal.integrated.initialHint is true
+2026-04-23 18:10:17.986 [error] Unable to create workbench contribution 'workbench.contrib.agentHostTerminal'. [createInstance] wbe depends on UNKNOWN service remoteAgentHostService.
+2026-04-23 18:10:18.197 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-04-23 18:10:23.057 [info] [perf] Render performance baseline is 159ms

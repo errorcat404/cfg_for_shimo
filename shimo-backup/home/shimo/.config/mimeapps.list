@@ -1,0 +1,7 @@
+[Default Applications]
+text/css=code.desktop
+text/javascript=code.desktop
+
+[Added Associations]
+text/css=code.desktop;
+text/javascript=code.desktop;

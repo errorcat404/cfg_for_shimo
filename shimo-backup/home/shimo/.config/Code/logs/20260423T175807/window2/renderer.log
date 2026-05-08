@@ -1,0 +1,15 @@
+2026-04-23 17:58:20.981 [error] Ignoring terminal.integrated.initialHint.copilotCli as terminal.integrated.initialHint is true
+2026-04-23 17:58:21.699 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 22ms.
+2026-04-23 17:58:21.777 [warning] Creation of workbench contribution 'workbench.contrib.configurationDefaultOverridesContribution' took 32ms.
+2026-04-23 17:58:24.231 [info] Started local extension host with pid 2523.
+2026-04-23 17:58:24.479 [error] Error: The editor could not be opened because the file was not found.
+    at B6.handleSetInputError (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3873:92373)
+    at async B6.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3873:91382)
+    at async vRe.doSetInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1189:33678)
+    at async vRe.doOpenEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1189:31464)
+    at async vRe.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1189:30412)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:31273
+2026-04-23 17:58:25.270 [error] Ignoring terminal.integrated.initialHint.copilotCli as terminal.integrated.initialHint is true
+2026-04-23 17:58:33.365 [error] Unable to create workbench contribution 'workbench.contrib.agentHostTerminal'. [createInstance] wbe depends on UNKNOWN service remoteAgentHostService.
+2026-04-23 17:58:33.965 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-04-23 17:58:38.394 [info] [perf] Render performance baseline is 77ms

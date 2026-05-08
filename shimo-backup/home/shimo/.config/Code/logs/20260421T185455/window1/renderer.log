@@ -1,0 +1,13 @@
+2026-04-21 18:55:08.112 [error] Ignoring terminal.integrated.initialHint.copilotCli as terminal.integrated.initialHint is true
+2026-04-21 18:55:08.914 [warning] Creation of workbench contribution 'workbench.contrib.exploreAgentDefaultModel' took 30ms.
+2026-04-21 18:55:09.057 [warning] Creation of workbench contribution 'workbench.contrib.configurationDefaultOverridesContribution' took 75ms.
+2026-04-21 18:55:10.652 [info] Started local extension host with pid 4259.
+2026-04-21 18:55:12.576 [error] Ignoring terminal.integrated.initialHint.copilotCli as terminal.integrated.initialHint is true
+2026-04-21 18:55:50.277 [error] Unable to create workbench contribution 'workbench.contrib.agentHostTerminal'. [createInstance] wbe depends on UNKNOWN service remoteAgentHostService.
+2026-04-21 18:55:50.283 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-04-21 18:55:50.372 [error] Error: Fetch timeout: 20000ms
+    at MNo (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4911:50875)
+    at async Fpt.logAndRequest (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:935:10285)
+    at async S$e.doFetchAlerts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5267:7956)
+    at async S$e.fetchAlerts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5267:7864)
+2026-04-21 18:55:52.680 [info] [perf] Render performance baseline is 72ms

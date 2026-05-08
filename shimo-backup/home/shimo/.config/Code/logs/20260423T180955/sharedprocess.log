@@ -1,0 +1,7 @@
+2026-04-23 18:41:38.366 [info] Getting Manifest... mrkaktuz.vscode-language-pack-uk
+2026-04-23 18:41:39.013 [info] Installing extension: mrkaktuz.vscode-language-pack-uk {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/shimo/.vscode/extensions/extensions.json","path":"/home/shimo/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":true,"productVersion":{"version":"1.116.0","date":"2026-04-15T00:28:13Z"}}
+2026-04-23 18:41:45.722 [info] Extension signature verification result for mrkaktuz.vscode-language-pack-uk: Success. Internal Code: 0. Executed: true. Duration: 5474ms.
+2026-04-23 18:41:46.411 [info] Extracted extension to file:///home/shimo/.vscode/extensions/mrkaktuz.vscode-language-pack-uk-1.106.0: mrkaktuz.vscode-language-pack-uk
+2026-04-23 18:41:46.499 [info] Renamed to /home/shimo/.vscode/extensions/mrkaktuz.vscode-language-pack-uk-1.106.0
+2026-04-23 18:41:46.646 [info] Adding language packs from the extension mrkaktuz.vscode-language-pack-uk
+2026-04-23 18:41:46.848 [info] Extension installed successfully: mrkaktuz.vscode-language-pack-uk vscode-userdata:/home/shimo/.vscode/extensions/extensions.json

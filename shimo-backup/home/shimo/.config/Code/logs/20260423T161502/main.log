@@ -1,0 +1,6 @@
+2026-04-23 16:15:08.846 [info] update#setState idle
+2026-04-23 16:21:52.745 [info] update#setState checking for updates
+2026-04-23 16:21:53.529 [info] update#setState idle
+2026-04-23 16:24:55.020 [info] [network process] gone - pid: 1970, exitCode: 15, crashed: true, crashedPreIPC: false
+2026-04-23 16:24:55.030 [info] [network process] launched with pid 7873
+2026-04-23 16:24:55.039 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)

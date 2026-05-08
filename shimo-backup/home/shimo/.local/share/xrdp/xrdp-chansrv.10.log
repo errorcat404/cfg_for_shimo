@@ -1,0 +1,19 @@
+[20260423-17:52:46] [INFO ] Socket 12: AF_UNIX connection received
+[20260423-17:52:46] [INFO ] sound_process_output_format:
+[20260423-17:52:46] [INFO ]       wFormatNo       0
+[20260423-17:52:46] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20260423-17:52:46] [INFO ]       nChannels       2
+[20260423-17:52:47] [INFO ]       nSamplesPerSec  44100
+[20260423-17:52:47] [INFO ]       nAvgBytesPerSec 176400
+[20260423-17:52:47] [INFO ]       nBlockAlign     4
+[20260423-17:52:47] [INFO ]       wBitsPerSample  16
+[20260423-17:52:47] [INFO ]       cbSize          0
+[20260423-17:52:47] [INFO ] sound_process_output_format:
+[20260423-17:52:47] [INFO ]       wFormatNo       1
+[20260423-17:52:47] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20260423-17:52:47] [INFO ]       nChannels       2
+[20260423-17:52:47] [INFO ]       nSamplesPerSec  22050
+[20260423-17:52:47] [INFO ]       nAvgBytesPerSec 88200
+[20260423-17:52:48] [INFO ]       nBlockAlign     4
+[20260423-17:52:48] [INFO ]       wBitsPerSample  16
+[20260423-17:52:48] [INFO ]       cbSize          0

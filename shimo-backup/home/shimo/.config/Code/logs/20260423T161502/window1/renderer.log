@@ -1,0 +1,34 @@
+2026-04-23 16:15:15.164 [error] Ignoring terminal.integrated.initialHint.copilotCli as terminal.integrated.initialHint is true
+2026-04-23 16:15:15.934 [warning] Creation of workbench contribution 'workbench.contrib.configurationDefaultOverridesContribution' took 49ms.
+2026-04-23 16:15:17.499 [info] Started local extension host with pid 2080.
+2026-04-23 16:15:19.535 [error] Ignoring terminal.integrated.initialHint.copilotCli as terminal.integrated.initialHint is true
+2026-04-23 16:21:52.796 [error] Unable to create workbench contribution 'workbench.contrib.agentHostTerminal'. [createInstance] wbe depends on UNKNOWN service remoteAgentHostService.
+2026-04-23 16:21:52.799 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-04-23 16:21:52.869 [error] Error: Fetch timeout: 20000ms
+    at MNo (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4911:50875)
+    at async Fpt.logAndRequest (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:935:10285)
+    at async S$e.doFetchAlerts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5267:7956)
+    at async S$e.fetchAlerts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5267:7864)
+2026-04-23 16:21:52.872 [error] Error while getting the latest version for the extension github.copilot-chat from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2026-04-23 16:21:52.876 [error] Error while getting the latest version for the extension ecmel.vscode-html-css from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2026-04-23 16:21:52.879 [error] Error while getting the latest version for the extension esbenp.prettier-vscode from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2026-04-23 16:21:52.882 [error] Error while getting the latest version for the extension pranaygp.vscode-css-peek from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2026-04-23 16:21:52.884 [error] Error while getting the latest version for the extension ritwickdey.liveserver from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2026-04-23 16:21:52.888 [error] Error while getting the latest version for the extension ms-vscode-remote.remote-containers from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2026-04-23 16:21:52.890 [error] Error while getting the latest version for the extension ms-azuretools.vscode-docker from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2026-04-23 16:21:52.892 [error] Error while getting the latest version for the extension dbaeumer.vscode-eslint from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2026-04-23 16:21:52.894 [error] Error while getting the latest version for the extension GitHub.vscode-pull-request-github from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2026-04-23 16:21:52.896 [error] Error while getting the latest version for the extension ms-python.python from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2026-04-23 16:21:52.898 [error] Error while getting the latest version for the extension ms-vscode-remote.remote-ssh from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2026-04-23 16:21:52.900 [error] Error while getting the latest version for the extension github.copilot-chat. Error: Fetch timeout: 60000ms
+2026-04-23 16:21:52.902 [error] Error while getting the latest version for the extension ecmel.vscode-html-css. Error: Fetch timeout: 60000ms
+2026-04-23 16:21:52.904 [error] Error while getting the latest version for the extension esbenp.prettier-vscode. Error: Fetch timeout: 60000ms
+2026-04-23 16:21:52.906 [error] Error while getting the latest version for the extension pranaygp.vscode-css-peek. Error: Fetch timeout: 60000ms
+2026-04-23 16:21:52.908 [error] Error while getting the latest version for the extension ritwickdey.liveserver. Error: Fetch timeout: 60000ms
+2026-04-23 16:21:52.910 [error] Error while getting the latest version for the extension ms-vscode-remote.remote-containers. Error: Fetch timeout: 60000ms
+2026-04-23 16:21:52.912 [error] Error while getting the latest version for the extension ms-azuretools.vscode-docker. Error: Fetch timeout: 60000ms
+2026-04-23 16:21:52.913 [error] Error while getting the latest version for the extension dbaeumer.vscode-eslint. Error: Fetch timeout: 60000ms
+2026-04-23 16:21:52.915 [error] Error while getting the latest version for the extension GitHub.vscode-pull-request-github. Error: Fetch timeout: 60000ms
+2026-04-23 16:21:52.917 [error] Error while getting the latest version for the extension ms-python.python. Error: Fetch timeout: 60000ms
+2026-04-23 16:21:52.919 [error] Error while getting the latest version for the extension ms-vscode-remote.remote-ssh. Error: Fetch timeout: 60000ms
+2026-04-23 16:21:54.671 [info] [perf] Render performance baseline is 66ms

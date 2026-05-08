@@ -1,0 +1,81 @@
+2026-04-23 17:59:23.444 [info] Extension host with pid 3150 started
+2026-04-23 17:59:23.444 [info] Skipping acquiring lock for /home/shimo/.config/Code/User/workspaceStorage/42b4051e4c88bf2449f12173f7aac596.
+2026-04-23 17:59:24.184 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-04-23 17:59:24.297 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-23 17:59:24.556 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2026-04-23 17:59:24.983 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-04-23 17:59:25.290 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-04-23 17:59:25.771 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2026-04-23 17:59:26.709 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2026-04-23 17:59:28.084 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-04-23 17:59:29.406 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-04-23 17:59:29.611 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-04-23 17:59:30.817 [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek, startup: true, activationEvent: 'workspaceContains:**/*.css,**/*.scss,**/*.sass,**/*.less'
+2026-04-23 17:59:31.532 [info] Eager extensions activated
+2026-04-23 17:59:31.753 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-23 17:59:31.763 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-23 17:59:31.838 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2026-04-23 17:59:31.845 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-04-23 17:59:31.848 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2026-04-23 17:59:32.539 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:32.540 [error] undefined
+2026-04-23 17:59:38.726 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:38.726 [error] undefined
+2026-04-23 17:59:39.248 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:39.248 [error] undefined
+2026-04-23 17:59:39.393 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:39.393 [error] undefined
+2026-04-23 17:59:45.341 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:45.341 [error] undefined
+2026-04-23 17:59:45.680 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:45.680 [error] undefined
+2026-04-23 17:59:45.827 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:45.828 [error] undefined
+2026-04-23 17:59:46.496 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:46.496 [error] undefined
+2026-04-23 17:59:47.600 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:47.600 [error] undefined
+2026-04-23 17:59:50.959 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:50.959 [error] undefined
+2026-04-23 17:59:51.297 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:51.297 [error] undefined
+2026-04-23 17:59:51.736 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:51.736 [error] undefined
+2026-04-23 17:59:53.286 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:53.286 [error] undefined
+2026-04-23 17:59:53.361 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:53.362 [error] undefined
+2026-04-23 17:59:53.756 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:53.756 [error] undefined
+2026-04-23 17:59:54.084 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:54.084 [error] undefined
+2026-04-23 17:59:54.356 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:54.356 [error] undefined
+2026-04-23 17:59:54.549 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:54.549 [error] undefined
+2026-04-23 17:59:54.658 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:54.658 [error] undefined
+2026-04-23 17:59:56.701 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:56.701 [error] undefined
+2026-04-23 17:59:57.618 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:57.618 [error] undefined
+2026-04-23 17:59:57.921 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:57.921 [error] undefined
+2026-04-23 18:00:08.196 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 18:00:08.196 [error] undefined
+2026-04-23 18:00:10.160 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 18:00:10.160 [error] undefined
+2026-04-23 18:00:11.999 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 18:00:11.999 [error] undefined
+2026-04-23 18:00:18.081 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 18:00:18.082 [error] undefined
+2026-04-23 18:00:25.196 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2026-04-23 18:01:25.020 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 18:01:25.094 [error] undefined
+2026-04-23 18:01:28.269 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 18:01:28.270 [error] undefined
+2026-04-23 18:01:30.712 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 18:01:30.712 [error] undefined
+2026-04-23 18:01:36.401 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2026-04-23 18:01:56.857 [info] Extension host terminating: received terminate message from renderer
+2026-04-23 18:01:57.076 [info] Extension host with pid 3150 exiting with code 0

@@ -1,0 +1,8 @@
+2026-04-21 18:55:03.746 [info] update#setState idle
+2026-04-21 18:55:50.250 [info] update#setState checking for updates
+2026-04-21 18:55:50.517 [info] update#setState idle
+2026-04-21 19:55:50.259 [info] update#setState checking for updates
+2026-04-21 19:55:50.504 [info] update#setState idle
+2026-04-21 20:55:50.265 [info] update#setState checking for updates
+2026-04-21 20:55:50.483 [info] update#setState idle
+2026-04-21 21:46:28.312 [info] [network process] gone - pid: 4188, exitCode: 15, crashed: true, crashedPreIPC: false

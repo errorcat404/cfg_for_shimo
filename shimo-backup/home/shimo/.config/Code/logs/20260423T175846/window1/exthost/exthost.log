@@ -1,0 +1,19 @@
+2026-04-23 17:58:52.919 [info] Extension host with pid 2785 started
+2026-04-23 17:58:52.919 [info] Skipping acquiring lock for /home/shimo/.config/Code/User/workspaceStorage/42b4051e4c88bf2449f12173f7aac596.
+2026-04-23 17:58:53.755 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-04-23 17:58:53.866 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-23 17:58:53.935 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2026-04-23 17:58:55.155 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-04-23 17:58:55.551 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-04-23 17:58:55.790 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-04-23 17:58:58.526 [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek, startup: true, activationEvent: 'workspaceContains:**/*.css,**/*.scss,**/*.sass,**/*.less'
+2026-04-23 17:59:03.500 [info] Eager extensions activated
+2026-04-23 17:59:03.962 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-23 17:59:03.969 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-23 17:59:04.025 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2026-04-23 17:59:04.031 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-04-23 17:59:04.034 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2026-04-23 17:59:05.631 [error] [ecmel.vscode-html-css] provider FAILED
+2026-04-23 17:59:05.631 [error] undefined
+2026-04-23 17:59:09.066 [info] Extension host terminating: received terminate message from renderer
+2026-04-23 17:59:09.145 [info] Extension host with pid 2785 exiting with code 0

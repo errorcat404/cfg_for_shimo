@@ -1,0 +1,11 @@
+2026-04-23 18:42:15.305 [info] [main] Рівень журналювання: Info
+2026-04-23 18:42:15.305 [info] [main] Перевірка знайденого git у: "git"
+2026-04-23 18:42:15.305 [info] [main] Використання git "2.43.0" з "git"
+2026-04-23 18:42:15.305 [info] [Model][doInitialScan] Initial repository scan started
+2026-04-23 18:42:15.305 [info] > git rev-parse --show-toplevel [96ms]
+2026-04-23 18:42:15.305 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-04-23 18:42:15.305 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-04-23 18:42:15.305 [info] > git rev-parse --show-toplevel [9ms]
+2026-04-23 18:42:15.305 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-04-23 18:42:15.305 [info] > git rev-parse --show-toplevel [5ms]
+2026-04-23 18:42:15.305 [info] fatal: not a git repository (or any of the parent directories): .git

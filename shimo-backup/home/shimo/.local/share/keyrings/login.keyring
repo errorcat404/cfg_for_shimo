@@ -1,0 +1,40 @@
+[keyring]
+display-name=Вхід
+ctime=1776434138
+mtime=0
+lock-on-idle=false
+lock-after=false
+
+[2]
+item-type=0
+display-name=Chrome Safe Storage Control
+secret=The meaning of life
+mtime=1776786950
+ctime=1776786950
+
+[2:attribute0]
+name=explanation
+type=string
+value=Because of quirks in the gnome libsecret API, Chrome needs to store a dummy entry to guarantee that this keyring was properly unlocked. More details at http://crbug.com/660005.
+
+[2:attribute1]
+name=xdg:schema
+type=string
+value=_chrome_dummy_schema_for_unlocking
+
+[3]
+item-type=0
+display-name=Chromium Safe Storage
+secret=zqE/FJ0nk6xdlUvW4IuRUg==
+mtime=1776786950
+ctime=1776786950
+
+[3:attribute0]
+name=application
+type=string
+value=Code
+
+[3:attribute1]
+name=xdg:schema
+type=string
+value=chrome_libsecret_os_crypt_password_v2

@@ -1,0 +1,2653 @@
+# file: usr/share/plymouth/themes/deus_ex
+# owner: root
+# group: root
+user::rwx
+group::---
+other::---
+
+# file: usr/share/plymouth/themes/deus_ex/progress-40.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-254.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-54.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-313.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-50.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-172.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-289.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-292.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-227.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-21.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-246.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-142.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-116.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-341.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-191.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-189.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-343.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-346.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-208.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-57.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-357.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-310.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-58.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-7.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-37.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-123.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-110.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-201.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-348.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-89.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-99.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-107.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-163.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-286.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-280.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-157.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-261.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-10.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-13.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-325.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-139.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-316.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-0.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-151.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-70.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-332.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-72.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-323.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-264.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-358.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-296.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-120.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-251.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-233.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-24.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/deus_ex.plymouth
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-340.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-224.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-239.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-335.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-255.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-197.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-371.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-17.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-203.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-61.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-237.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-113.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-288.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-121.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-284.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-11.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-133.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-144.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-38.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-53.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-169.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-364.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-77.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-350.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-168.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-287.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-359.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-86.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-304.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-32.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-140.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-114.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-30.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-158.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-217.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-236.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-234.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-260.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-195.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-240.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-301.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-68.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-297.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/deus_ex.script
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-93.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-368.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-266.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-161.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-205.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-293.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-150.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-97.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-331.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-48.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-372.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-143.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-171.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-360.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-212.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-258.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-366.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-145.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-177.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-127.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-149.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-111.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-100.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-222.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-90.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-250.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-109.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-268.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-244.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-321.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-108.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-230.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-267.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-26.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-22.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-330.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-275.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-122.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-155.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-137.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-319.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-118.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-200.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-241.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-369.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-43.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-374.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-124.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-334.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-180.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-23.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-67.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-295.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-356.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-51.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-185.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-102.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-228.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-274.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-94.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-273.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-154.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-101.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-219.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-98.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-14.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-174.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-276.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-129.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-91.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-272.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-242.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-278.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-243.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-305.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-193.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-170.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-213.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-225.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-298.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-135.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-198.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-315.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-35.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-248.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-187.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-105.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-285.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-126.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-355.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-269.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-63.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-147.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-221.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-52.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-206.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-281.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-12.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-71.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-152.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-314.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-342.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-80.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-162.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-106.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-76.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-131.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-42.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-257.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-47.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-62.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-159.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-18.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-247.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-112.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-218.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-231.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-188.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-20.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-166.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-253.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-190.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-182.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-223.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-34.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-337.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-345.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-132.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-194.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-134.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-347.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-306.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-6.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-367.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-92.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-104.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-344.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-130.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-363.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-31.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-207.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-351.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-210.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-283.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-291.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-56.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-19.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-28.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-173.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-192.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-338.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-9.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-262.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-103.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-204.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-36.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-153.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-66.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-229.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-175.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-84.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-324.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-263.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-27.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-326.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/LICENSE
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-220.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-238.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-146.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-299.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-186.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-252.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-82.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-256.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-322.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-33.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-160.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-29.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-318.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-365.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-65.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-167.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-3.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-329.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-308.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-85.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-202.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-259.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-69.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-141.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-216.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-59.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-181.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-96.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-44.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-235.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-83.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-339.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-81.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-41.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-311.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-317.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-45.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-265.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-49.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-226.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-4.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-136.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-16.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-352.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-128.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-39.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-8.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-249.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-95.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-336.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-75.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-183.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-320.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-178.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-300.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-232.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-309.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-78.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-328.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-138.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-179.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-312.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-349.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-277.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-282.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-117.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-209.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-290.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-184.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-15.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-5.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-156.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-55.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-115.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-361.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-125.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-74.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-270.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-88.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-64.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-73.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-370.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-327.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-164.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-119.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-79.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-215.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-1.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-354.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-373.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-176.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-60.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-2.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-333.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-46.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-165.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-245.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-303.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-279.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-307.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-294.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-271.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-353.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-211.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-362.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-148.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-302.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-196.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-199.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-214.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-25.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/share/plymouth/themes/deus_ex/progress-87.png
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+

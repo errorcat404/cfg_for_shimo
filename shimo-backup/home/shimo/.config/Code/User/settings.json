@@ -1,0 +1,8 @@
+{
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "security.workspace.trust.banner": "never",
+    "security.workspace.trust.emptyWindow": false,
+    "security.workspace.trust.enabled": false,
+    "security.workspace.trust.startupPrompt": "never",
+    "liveServer.settings.donotShowInfoMsg": true
+}

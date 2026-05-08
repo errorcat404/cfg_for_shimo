@@ -1,0 +1,9 @@
+[Nemo Action]
+Active=true
+Name=Відкрити в VS Code
+Comment=Відкрити папку в Visual Studio Code
+Exec=code %F
+Icon-Name=vscode
+Selection=any
+Extensions=dir;
+Quote=double

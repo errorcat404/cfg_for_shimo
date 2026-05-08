@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/shimo/Mint/iconS.png" added="2026-04-18T09:59:43.357289Z" modified="2026-04-21T14:57:22.188208Z" visited="2026-04-18T09:59:43.357291Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xlet-settings.py" exec="&apos;xlet-settings.py %u&apos;" modified="2026-04-18T09:59:43.357294Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;xviewer %U&apos;" modified="2026-04-21T14:57:20.680574Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2026-04-21T14:57:22.188199Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shimo/info.txt" added="2026-04-18T10:09:05.878647Z" modified="2026-04-18T10:09:08.280190Z" visited="2026-04-18T10:09:05.878649Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;xed %U&apos;" modified="2026-04-18T10:09:05.878654Z" count="1"/>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2026-04-18T10:09:08.280183Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shimo/%D0%A1%D1%82%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8F/asd" added="2026-04-18T10:56:16.896106Z" modified="2026-04-21T15:13:07.800481Z" visited="2026-04-18T10:56:16.896108Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo-desktop" exec="&apos;xed %U&apos;" modified="2026-04-21T15:13:02.983255Z" count="4"/>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2026-04-21T15:13:07.800477Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/icons/Custom/Logo" added="2026-04-18T12:32:28.007323Z" modified="2026-04-18T12:32:28.007336Z" visited="2026-04-18T12:32:28.007325Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xlet-settings.py" exec="&apos;xlet-settings.py %u&apos;" modified="2026-04-18T12:32:28.007329Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/icons/Custom/Logo-true.png" added="2026-04-18T13:32:38.736054Z" modified="2026-04-18T13:32:38.736068Z" visited="2026-04-18T13:32:38.736056Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xlet-settings.py" exec="&apos;xlet-settings.py %u&apos;" modified="2026-04-18T13:32:38.736061Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shimo/%D0%A1%D1%82%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8F/test_code" added="2026-04-21T14:25:20.220232Z" modified="2026-04-21T15:54:12.906223Z" visited="2026-04-21T14:25:20.220234Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo-desktop" exec="&apos;nemo %U&apos;" modified="2026-04-21T15:54:12.906218Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shimo/%D0%A1%D1%82%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8F/test_code/index.html" added="2026-04-21T14:51:31.802029Z" modified="2026-04-21T15:54:20.201938Z" visited="2026-04-21T14:51:31.802031Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;firefox %u&apos;" modified="2026-04-21T15:54:20.201934Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shimo/%D0%A1%D1%82%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8F/test_code/script.js" added="2026-04-21T14:52:19.683324Z" modified="2026-04-21T15:54:29.007351Z" visited="2026-04-21T14:52:19.683326Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/share/code/code %F&apos;" modified="2026-04-21T15:54:29.007344Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shimo/%D0%A1%D1%82%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8F/test_code/style.css" added="2026-04-21T14:52:30.304391Z" modified="2026-04-21T14:55:35.078727Z" visited="2026-04-21T14:52:30.304394Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/share/code/code %F&apos;" modified="2026-04-21T14:55:35.078719Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shimo/%D0%A1%D1%82%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8F/script.js" added="2026-04-21T14:57:05.913427Z" modified="2026-04-21T15:02:54.274934Z" visited="2026-04-21T14:57:05.913430Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo-desktop" exec="&apos;/usr/share/code/code %F&apos;" modified="2026-04-21T15:02:54.274930Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="trash:///asd" added="2026-04-21T15:56:01.131337Z" modified="2026-04-21T15:56:01.131350Z" visited="2026-04-21T15:56:01.131339Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2026-04-21T15:56:01.131345Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shimo/%D0%A1%D1%82%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8F/start.sh" added="2026-04-21T15:57:16.068947Z" modified="2026-04-21T15:57:24.002969Z" visited="2026-04-21T15:57:16.068949Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2026-04-21T15:57:24.002966Z" count="3"/>
+          <bookmark:application name="nemo-desktop" exec="&apos;xed %U&apos;" modified="2026-04-21T15:57:21.702045Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shimo/%D0%A1%D1%82%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8F/code" added="2026-04-23T14:55:16.472234Z" modified="2026-04-23T15:09:46.080925Z" visited="2026-04-23T14:55:16.472236Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo-desktop" exec="&apos;nemo %U&apos;" modified="2026-04-23T15:09:46.080919Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shimo/%D0%A1%D1%82%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8F/code/index.html" added="2026-04-23T15:01:13.809746Z" modified="2026-04-23T15:01:13.809756Z" visited="2026-04-23T15:01:13.809748Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;firefox %u&apos;" modified="2026-04-23T15:01:13.809751Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
