@@ -1,0 +1,69 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+MAIN_USER="shimo"
+BACKUP_DIR="/home/admin/"
+FFOX_PROFILE="k25mugmb.default-release"
+
+log() {
+  printf '\n== %s ==\n' "$*"
+}
+
+copy_path() {
+  local src="$1"
+  local dst="$2"
+
+  if [[ -e "$src" ]]; then
+    mkdir -p "$(dirname "$dst")"
+    if [[ -d "$src" ]]; then
+      rsync -aHAX "$src"/ "$dst"/
+    else
+      cp -a "$src" "$dst"
+    fi
+  fi
+}
+
+log "Creating backup structure"
+mkdir -p \
+  "$BACKUP_DIR/home/$MAIN_USER" \
+  "$BACKUP_DIR/usr/share/plymouth/themes" \
+  "$BACKUP_DIR/meta"
+
+log "Backing up user config"
+copy_path "/home/$MAIN_USER/.config" "$BACKUP_DIR/home/$MAIN_USER/.config"
+copy_path "/home/$MAIN_USER/.local/share" "$BACKUP_DIR/home/$MAIN_USER/.local/share"
+copy_path "/home/$MAIN_USER/.themes" "$BACKUP_DIR/home/$MAIN_USER/.themes"
+copy_path "/home/$MAIN_USER/.icons" "$BACKUP_DIR/home/$MAIN_USER/.icons"
+copy_path "/home/$MAIN_USER/.config/autostart" "$BACKUP_DIR/home/$MAIN_USER/.config/autostart"
+
+log "Backing up shell and personal files"
+copy_path "/home/$MAIN_USER/.bashrc" "$BACKUP_DIR/home/$MAIN_USER/.bashrc"
+copy_path "/home/$MAIN_USER/.profile" "$BACKUP_DIR/home/$MAIN_USER/.profile"
+copy_path "/home/$MAIN_USER/.xprofile" "$BACKUP_DIR/home/$MAIN_USER/.xprofile"
+copy_path "/home/$MAIN_USER/.bash_aliases" "$BACKUP_DIR/home/$MAIN_USER/.bash_aliases"
+copy_path "/home/$MAIN_USER/.gitconfig" "$BACKUP_DIR/home/$MAIN_USER/.gitconfig"
+
+log "Backing up Firefox"
+mkdir -p "$BACKUP_DIR/home/$MAIN_USER/.mozilla/firefox"
+copy_path "/home/$MAIN_USER/.mozilla/firefox/profiles.ini" "$BACKUP_DIR/home/$MAIN_USER/.mozilla/firefox/profiles.ini"
+copy_path "/home/$MAIN_USER/.mozilla/firefox/$FFOX_PROFILE" "$BACKUP_DIR/home/$MAIN_USER/.mozilla/firefox/$FFOX_PROFILE"
+
+log "Backing up Plymouth theme"
+copy_path "/usr/share/plymouth/themes/deus_ex" "$BACKUP_DIR/usr/share/plymouth/themes/deus_ex"
+
+log "Saving ACLs"
+if command -v getfacl >/dev/null 2>&1; then
+  getfacl -R "/home/$MAIN_USER" > "$BACKUP_DIR/meta/home-$MAIN_USER.acl.txt" || true
+  getfacl -R "/usr/share/plymouth/themes/deus_ex" > "$BACKUP_DIR/meta/plymouth-deus_ex.acl.txt" || true
+fi
+
+log "Saving package list"
+dpkg --get-selections > "$BACKUP_DIR/meta/packages.txt"
+apt-mark showmanual > "$BACKUP_DIR/meta/manual-packages.txt" || true
+
+log "Saving system info"
+uname -a > "$BACKUP_DIR/meta/uname.txt"
+cat /etc/os-release > "$BACKUP_DIR/meta/os-release.txt" || true
+
+log "Done"
+echo "Backup is here: $BACKUP_DIR"
